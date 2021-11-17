@@ -1,0 +1,16 @@
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.exe
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.deps.json
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.runtimeconfig.json
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.runtimeconfig.dev.json
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.dll
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\ref\UsuarioCadastro.dll
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\bin\Debug\net5.0\UsuarioCadastro.pdb
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.csprojAssemblyReference.cache
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.AssemblyInfoInputs.cache
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.AssemblyInfo.cs
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.csproj.CoreCompileInputs.cache
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.dll
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\ref\UsuarioCadastro.dll
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.pdb
+C:\WorkSpace\UsuarioCadastro\UsuarioCadastro\obj\Debug\net5.0\UsuarioCadastro.genruntimeconfig.cache
