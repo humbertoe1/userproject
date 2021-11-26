@@ -87,7 +87,7 @@ namespace UsuarioCadastro
                                 Console.WriteLine("2 - Age");
                                 Console.WriteLine("3 - Email");
                                 Console.WriteLine("4 - CPF");
-                                Console.WriteLine("5 - Go back to the Main Menu");
+                                Console.WriteLine("5 - Go back to the Main Menu...");
                                 change = Convert.ToInt32(Console.ReadLine());
                                 switch (change)
                                 {
